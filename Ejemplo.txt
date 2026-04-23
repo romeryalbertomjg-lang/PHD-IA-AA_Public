@@ -5,3 +5,7 @@ Ejemplo de practica con GIT
 Agregando una nueva linea.
 
 Adicionando otra más.
+
+Observado todas las versiones de git.
+
+Es interesante GIT, pero mejor si fuera visual con gráficos.
